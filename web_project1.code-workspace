@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../web_project1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sprint-1__startkit"
+	}
+}
